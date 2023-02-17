@@ -1469,7 +1469,7 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jest/types@^29.4.2", "@jest/types@^29.4.3":
+"@jest/types@^29.4.3":
   version "29.4.3"
   resolved "https://registry.yarnpkg.com/@jest/types/-/types-29.4.3.tgz#9069145f4ef09adf10cec1b2901b2d390031431f"
   integrity sha512-bPYfw8V65v17m2Od1cv44FH+SiKW7w2Xu7trhcdTLUmSv85rfKsP+qXSjO4KGJr4dtPSzl/gvslZBXctf1qGEA==
@@ -3330,10 +3330,10 @@ collection-visit@^1.0.0:
     map-visit "^1.0.0"
     object-visit "^1.0.0"
 
-color-blend@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/color-blend/-/color-blend-3.0.1.tgz#3882ed1190ca18760ffe11570d8537960171172b"
-  integrity sha512-KueDvNiKHAvVeApic0SxHZLyy4x3NELfTLzMHRpRRLi+9e2kWhpeWvtuH3Sjb92mOJYEUhRjb8z7lr4OqDv17Q==
+color-blend@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/color-blend/-/color-blend-4.0.0.tgz#e9950e9fa5d6e552ff8bb107c39f7e83a0c1a3bb"
+  integrity sha512-fYODTHhI/NG+B5GnzvuL3kiFrK/UnkUezWFTgEPBTY5V+kpyfAn95Vn9sJeeCX6omrCOdxnqCL3CvH+6sXtIbw==
 
 color-convert@^1.9.0, color-convert@^1.9.1:
   version "1.9.3"
@@ -6803,7 +6803,7 @@ jest-snapshot@^29.4.3:
     pretty-format "^29.4.3"
     semver "^7.3.5"
 
-jest-util@^29.4.2, jest-util@^29.4.3:
+jest-util@^29.4.3:
   version "29.4.3"
   resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-29.4.3.tgz#851a148e23fc2b633c55f6dad2e45d7f4579f496"
   integrity sha512-ToSGORAz4SSSoqxDSylWX8JzkOQR7zoBtNRsA7e+1WUX5F8jrOwaNpuh1YfJHJKDHXLHmObv5eOjejUd+/Ws+Q==
